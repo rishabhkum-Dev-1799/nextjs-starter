@@ -1,0 +1,12 @@
+-----------------------------------------------File Based Routing-----------------------------
+1) Setup 
+2) Project File Structure
+3) File Based Simple routing
+4) Nested routing
+5) Dynamic routing
+6) Nested Dynamic routing
+7) Catch All routes
+8) Creating a Navigating Links
+9 ) Navigating Programmatically
+10) Custom 404 page 
+----------------------------------------------------------------------------------------------
